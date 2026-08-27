@@ -1,0 +1,14 @@
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\bin\Debug\net8.0\CSharpDay10.exe
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\bin\Debug\net8.0\CSharpDay10.deps.json
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\bin\Debug\net8.0\CSharpDay10.runtimeconfig.json
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\bin\Debug\net8.0\CSharpDay10.dll
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\bin\Debug\net8.0\CSharpDay10.pdb
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.AssemblyInfo.cs
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.dll
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\refint\CSharpDay10.dll
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.pdb
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\CSharpDay10.genruntimeconfig.cache
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay10\obj\Debug\net8.0\ref\CSharpDay10.dll

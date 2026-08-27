@@ -1,0 +1,4 @@
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay09\obj\Debug\net8.0\CSharpDay09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay09\obj\Debug\net8.0\CSharpDay09.AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay09\obj\Debug\net8.0\CSharpDay09.AssemblyInfo.cs
+C:\Users\ITD-L0183\Desktop\KielStack\01_Projects\Practice\CSharpFundamentals\CSharpDay09\obj\Debug\net8.0\CSharpDay09.csproj.CoreCompileInputs.cache

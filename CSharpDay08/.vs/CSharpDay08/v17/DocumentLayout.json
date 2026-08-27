@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317431DA-4197-46F1-901C-D1119CFA673F}|CSharpDay08.csproj|c:\\users\\itd-l0183\\desktop\\kielstack\\01_projects\\practice\\csharpfundamentals\\csharpday08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317431DA-4197-46F1-901C-D1119CFA673F}|CSharpDay08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T06:19:02.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
