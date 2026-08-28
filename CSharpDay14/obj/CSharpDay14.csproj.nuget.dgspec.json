@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj": {}
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj": {
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj",
+        "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj",
         "projectName": "CSharpDay14",
-        "projectPath": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj",
+        "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay14\\CSharpDay14.csproj",
         "packagesPath": "C:\\Users\\ITD-L0183\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITD-L0183\\Desktop\\KielStack\\01_Projects\\Practice\\CSharpFundamentals\\CSharpDay14\\obj\\",
+        "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
