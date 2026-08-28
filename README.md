@@ -33,14 +33,14 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Arrays
 - [x] List<T>
 - [x] Dictionary<TKey, TValue>
-- [ ] Foreach
+- [x] Foreach
 
 ### 3. Delegates & Events
 
-- [ ] Delegates
-- [ ] Action
-- [ ] Functions
-- [ ] Events
+- [x] Delegates
+- [x] Action
+- [x] Functions
+- [x] Events
 
 ### 4. Error Handling
 
@@ -92,8 +92,8 @@ The goal is to understand the language and its underlying concepts through hands
 | Category | Progress |
 |---|---|
 | Fundamentals | 9 / 9 |
-| Collections | 3 / 4 |
-| Delegates & Events | 0 / 4 |
+| Collections | 4 / 4 |
+| Delegates & Events | 4 / 4 |
 | Error Handling | 0 / 1 |
 | OOP | 0 / 9 |
 | Generics | 0 / 1 |
