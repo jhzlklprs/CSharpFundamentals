@@ -44,7 +44,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### 4. Error Handling
 
-- [ ] Exception Handling
+- [x] Exception Handling
 
 ### 5. Object-Oriented Programming
 
@@ -94,7 +94,7 @@ The goal is to understand the language and its underlying concepts through hands
 | Fundamentals | 9 / 9 |
 | Collections | 4 / 4 |
 | Delegates & Events | 4 / 4 |
-| Error Handling | 0 / 1 |
+| Error Handling | 1 / 1 |
 | OOP | 0 / 9 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
