@@ -196,3 +196,19 @@
 //    Console.WriteLine(res);
 //}
 #endregion
+
+
+#region --Mini Challenge 6 — First()--
+
+List<int> numbers = new List<int>
+{
+    5, 12, 18, 25, 30, 42
+};
+
+var result = numbers.First(n => n > 20);
+
+    Console.WriteLine(result);
+
+
+
+#endregion
