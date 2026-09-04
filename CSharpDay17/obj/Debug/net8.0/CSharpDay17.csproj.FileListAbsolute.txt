@@ -1,0 +1,15 @@
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\bin\Debug\net8.0\CSharpDay17.exe
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\bin\Debug\net8.0\CSharpDay17.deps.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\bin\Debug\net8.0\CSharpDay17.runtimeconfig.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\bin\Debug\net8.0\CSharpDay17.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\bin\Debug\net8.0\CSharpDay17.pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.AssemblyInfo.cs
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.sourcelink.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\refint\CSharpDay17.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\CSharpDay17.genruntimeconfig.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay17\obj\Debug\net8.0\ref\CSharpDay17.dll
