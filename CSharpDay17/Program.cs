@@ -200,15 +200,29 @@
 
 #region --Mini Challenge 6 — First()--
 
+//List<int> numbers = new List<int>
+//{
+//    5, 12, 18, 25, 30, 42
+//};
+
+//var result = numbers.First(n => n > 20);
+
+//    Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 7 - FirstOrDefault() --
+
 List<int> numbers = new List<int>
 {
-    5, 12, 18, 25, 30, 42
+    10, 20, 30, 40, 50
 };
 
-var result = numbers.First(n => n > 20);
-
-    Console.WriteLine(result);
-
-
-
+var a = numbers.First(n => n > 25);
+var b = numbers.FirstOrDefault(n => n > 100);
+var c = numbers.FirstOrDefault();
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
 #endregion
