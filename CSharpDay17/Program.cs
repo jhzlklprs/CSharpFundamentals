@@ -214,15 +214,62 @@
 
 #region -- Mini Challenge 7 - FirstOrDefault() --
 
-List<int> numbers = new List<int>
-{
-    10, 20, 30, 40, 50
-};
+// List<int> numbers = new List<int>
+// {
+//    10, 20, 30, 40, 50
+// };
 
-var a = numbers.First(n => n > 25);
-var b = numbers.FirstOrDefault(n => n > 100);
-var c = numbers.FirstOrDefault();
-Console.WriteLine(a);
-Console.WriteLine(b);
-Console.WriteLine(c);
+// var a = numbers.First(n => n > 25);
+// var b = numbers.FirstOrDefault(n => n > 100);
+// var c = numbers.FirstOrDefault();
+// Console.WriteLine(a);
+// Console.WriteLine(b);
+// Console.WriteLine(c);
 #endregion
+
+
+#region -- Mini Challenge 8 — Any() --
+
+// List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+// bool result = numbers.Any(n => n > 3);
+
+// Console.WriteLine("ANY RESULT: " + result);
+
+#endregion
+
+
+#region -- Mini Challenge 9 — All() --
+
+// List<int> numbers = new List<int> { 2, 4, 6, 8};
+
+// bool result = numbers.All(n => n % 2 == 0);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 1 — Any() --
+
+// List<int> numbers = new List<int> { 5, 12, 8, 3, 20};
+
+// bool result = numbers.Any(n => n > 15);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 2 — All() --
+
+// List<int> numbers = new List<int> { 10, 20, 30, 40 };
+
+// bool result = numbers.All(n => n > 5);
+
+// Console.WriteLine(result);
+
+
+#endregion
+
+
