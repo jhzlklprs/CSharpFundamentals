@@ -365,102 +365,87 @@
 
 #endregion
 
+#region #region -- 1. Select — Projection --
 
-#region -- Sum() Mini Challenges 🧮 --
-
-// List<int> numbers = new List<int>
-// {
-//     10, 20, 30, 40
-// };
-
-// int result = numbers.Sum();
-
-// Console.WriteLine(result);
-
-#endregion
-
-
-#region -- Mini Challenge 1 — Sum All --
+#region -- Mini Challenge 1.1 — Square Them --
 
 // List<int> numbers = new List<int>
 // {
-//     5, 10, 15, 20
+//   1, 2, 3, 4, 5  
 // };
 
-// int result = numbers.Sum();
+// var result = numbers.Select(n => n * n);
 
-// Console.WriteLine(result);
-
-#endregion
-
-
-#region -- Mini Challenge 2 — Sum With Transformation --
-
-// List<int> numbers = new List<int>
+// foreach(var r in result)
 // {
-//     2, 4, 6, 8
-// };
-
-// int result = numbers.Sum(n => n * 3);
-
-// Console.WriteLine(result);
+//     Console.WriteLine(r);
+// }
 
 #endregion
 
+#region -- Mini Challenge 1.2 — Names to Lengths --
 
-#region -- Mini Challenge 3 — Sum Only Matching Values --
+// List<string> names = new List<string>
+//  { "Ana", "Chris", "Bo", "Alexander" };
 
-// List<int> numbers = new List<int>
+//  var result = names.Select(n => n.Length);
+
+//  foreach (var r in result)
 // {
-//     5, 10, 15, 20, 25, 30
-// };
-
-// int result = numbers.Where(n => n > 15).Sum();
-
-// Console.WriteLine(result);
-
+//     Console.WriteLine(r);
+// }
 
 #endregion
 
+#region -- Mini Challenge 1.3 — Project to a New Shape --
 
-#region -- Mini Challenge 4 — Student Scores --
+// List<double> prices = new List<double> { 5, 19.99, 100};
 
-// List<int> scores = new List<int>
+// var result = prices.Select(n => $"${n:F2}");
+
+// foreach (var r in result)
 // {
-//     85, 92, 76, 88, 95
+//     Console.WriteLine(r);
+// }
+#endregion
+
+#endregion
+
+#region -- 2. SelectMany — Flattening --
+
+#region -- Mini Challenge 2.1 — Flatten Class Lists --
+
+// List<List<string>> classrooms = new List<List< string>>
+// {
+//     new List<string> { "Mia", "Leo" },
+//     new List<string> { "Sam", "Ivy", "Tom" },
+//     new List<string> { "Nora" }
 // };
 
-// int result = scores.Sum();
+// var result = classrooms.SelectMany( c => c);
 
-// Console.WriteLine(result);
+// foreach (var r in result)
+// {
+//     Console.WriteLine(r);
+// }
+
 
 #endregion
 
+#region -- Mini Challenge 2.2 — Flatten and Transform --
 
-#region -- Mini Challenge 5 — Boss Fight 😈 --
+// List<string> words = new List<string> { "cat", "dog" };
 
-List<int> numbers = new List<int>
-{
-    10, 15, 22, 31, 40, 55, 62, 73, 80
-};
+// var result = words.SelectMany(c => c);
 
-int result = numbers.Where(n => n > 20 && n % 2 == 0 ).Sum();
-
-
-Console.WriteLine(result);
+// foreach(var r in result)
+// {
+//     Console.WriteLine(r);
+// }
 
 #endregion
 
-
-
-
-
-
-
-
-
-
-
+#endregion
 
 
 
