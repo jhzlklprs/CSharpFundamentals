@@ -370,7 +370,7 @@
 //     10, 15, 22, 30, 41, 50, 63, 70
 // };
 
-// var result = numbers.Count(n => n > 20 && n % 2 == 0);
+// var result = numbers.Where(n => n > 20 && n % 2 == 0).Sum();
 
 // Console.WriteLine(result);
 
