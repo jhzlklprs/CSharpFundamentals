@@ -1,5 +1,7 @@
 ﻿//CSharpFundamentals — Day 17: LINQ
 
+#region -- LINQ --
+
 #region --First: What is LINQ? // LINQ = Language Integrated Query--
 //For example, without LINQ:
 //List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
@@ -273,49 +275,195 @@
 #endregion
 
 
-#region --  --
+#region -- LINQ Count() --
 
+// List<int> numbers = new List<int>
+// {
+//     10,20,30,40,50
+// };
+
+// int result = numbers.Count(n => n > 25);
+
+// Console.WriteLine(result);
+
+
+#endregion
+
+
+#region -- Mini Challenge 1 — Count All --
+
+// List<int> numbers = new List<int>
+// {
+//   10, 20, 30, 40, 50  
+// };
+
+// int result = numbers.Count();
+
+// Console.WriteLine(result);
+#endregion
+
+
+
+#region -- Mini Challenge 2 — Count With Condition --
+
+// List<int> numbers = new List<int>
+// {
+//   5, 12, 18, 25, 30, 42  
+// };
+
+// int result = numbers.Count(n => n > 20);
+
+// Console.WriteLine(result);
 
 
 #endregion
 
 
 
+#region -- Mini Challenge 3 — Count Even Numbers --
 
-#region --  --
+// List<int> numbers = new List<int>
+// {
+//   1,2,3,4,5,6,7,8  
+// };
 
+// int result = numbers.Count(n => n % 2 == 0);
 
-
-#endregion
-
-
-
-#region --  --
-
-
+// Console.WriteLine(result);
 
 #endregion
 
 
 
-#region --  --
+#region -- Mini Challenge 4 — Student Scores --
 
+// List<int> scores = new List<int>
+// {
+//     95, 72, 88, 60, 45, 91, 78
+// };
+
+// int result = scores.Count(n => n > 75);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+
+#region -- Mini Challenge 5 — Boss Fight 😈 --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 15, 22, 31, 40, 55, 62, 73, 80
+// };
+
+// int result = numbers.Count(n => n > 20 && n % 2 == 0);
+
+// Console.WriteLine(result);
+#endregion
 
 
 #endregion
 
 
+#region -- Sum() Mini Challenges 🧮 --
 
-#region --  --
+// List<int> numbers = new List<int>
+// {
+//     10, 20, 30, 40
+// };
 
+// int result = numbers.Sum();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 1 — Sum All --
+
+// List<int> numbers = new List<int>
+// {
+//     5, 10, 15, 20
+// };
+
+// int result = numbers.Sum();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 2 — Sum With Transformation --
+
+// List<int> numbers = new List<int>
+// {
+//     2, 4, 6, 8
+// };
+
+// int result = numbers.Sum(n => n * 3);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 3 — Sum Only Matching Values --
+
+// List<int> numbers = new List<int>
+// {
+//     5, 10, 15, 20, 25, 30
+// };
+
+// int result = numbers.Where(n => n > 15).Sum();
+
+// Console.WriteLine(result);
 
 
 #endregion
 
 
+#region -- Mini Challenge 4 — Student Scores --
 
-#region --  --
+// List<int> scores = new List<int>
+// {
+//     85, 92, 76, 88, 95
+// };
 
+// int result = scores.Sum();
 
+// Console.WriteLine(result);
 
 #endregion
+
+
+#region -- Mini Challenge 5 — Boss Fight 😈 --
+
+List<int> numbers = new List<int>
+{
+    10, 15, 22, 31, 40, 55, 62, 73, 80
+};
+
+int result = numbers.Where(n => n > 20 && n % 2 == 0 ).Sum();
+
+
+Console.WriteLine(result);
+
+#endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
