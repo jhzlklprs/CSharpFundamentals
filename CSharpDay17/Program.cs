@@ -363,6 +363,21 @@
 #endregion
 
 
+#region -- 😈 Now your Boss Fight --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 15, 22, 30, 41, 50, 63, 70
+// };
+
+// var result = numbers.Count(n => n > 20 && n % 2 == 0);
+
+// Console.WriteLine(result);
+
+
+#endregion
+
+
 #endregion
 
 #region #region -- 1. Select — Projection --
