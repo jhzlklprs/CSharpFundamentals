@@ -463,6 +463,53 @@
 #endregion
 
 
+#region -- Mini Challenge 1 — Basic Average --
+
+// List<int> numbers = new List<int>
+// {
+//   10, 20, 30, 40, 50  
+// };
+
+// double result = numbers.Average();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 2 — Average with a Condition --
+
+// List<int> scores = new List<int>
+// {
+//     50, 60, 70, 80, 90, 100
+// };
+
+// double result = scores.Where(n => n > 70).Average();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 3 — Average of Even Numbers --
+
+List<int> numbers = new List<int>
+{
+    10, 15, 20, 25, 30, 35, 40
+};
+
+double result = numbers.Where(n => n % 2 == 0).Average();
+
+Console.WriteLine(result);
+
+#endregion
+
+
+
+
+
+
+
 
 
 
