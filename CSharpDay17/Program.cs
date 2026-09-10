@@ -507,14 +507,27 @@
 
 #region -- 😈 Mini Challenge 4 — Student Scores --
 
-List<int> scores = new List<int>
- {
-     95, 72, 88, 60, 45, 91, 78
- };
+//List<int> scores = new List<int>
+// {
+//     95, 72, 88, 60, 45, 91, 78
+// };
 
-var result = scores.Where(n => n >= 75).Average();
+//var result = scores.Where(n => n >= 75).Average();
 
-Console.WriteLine(result);
+//Console.WriteLine(result);
+#endregion
+
+
+#region -- 😈 Mini Challenge 5 — Average Boss Fight --
+
+//List<int> numbers = new List<int>
+//{
+//    12, 18, 25, 30, 35, 42, 50, 61, 70
+//};
+
+//var result = numbers.Where(n => n > 20 && n % 2 == 0).Average();
+
+//Console.WriteLine(result);
 #endregion
 
 
