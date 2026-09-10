@@ -377,9 +377,6 @@
 
 #endregion
 
-
-#endregion
-
 #region #region -- 1. Select — Projection --
 
 #region -- Mini Challenge 1.1 — Square Them --
@@ -520,15 +517,171 @@
 
 #region -- 😈 Mini Challenge 5 — Average Boss Fight --
 
-//List<int> numbers = new List<int>
-//{
-//    12, 18, 25, 30, 35, 42, 50, 61, 70
-//};
-
-//var result = numbers.Where(n => n > 20 && n % 2 == 0).Average();
-
-//Console.WriteLine(result);
 #endregion
+
+
+
+// List<int> numbers = new List<int>
+// {
+//    12, 18, 25, 30, 35, 42, 50, 61, 70
+// };
+
+// var result = numbers.Where(n => n > 20 && n % 2 == 0).Average();
+
+// Console.WriteLine(result);
+#endregion
+
+
+
+#region -- Mini Challenge 1 — Min --
+
+// List<int> numbers = new List<int>
+// {
+//     42, 17, 89, 5, 63, 24
+// };
+
+// int result = numbers.Min();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 2 — Max --
+
+// List<int> numbers = new List<int>
+// {
+//     42, 17, 89, 5, 63, 24
+// };
+
+// int result = numbers.Max();
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 3 — Find the Maximum --
+
+// List<int> numbers = new List<int>
+// {
+//     42, 17, 89, 5, 63, 24
+// };
+
+// int max = numbers [0];
+
+// for (int i = 1; i < numbers.Count; i++)
+// {
+//     if(numbers[i] > max)
+//     {
+//         max = numbers[i];
+//     }
+// }
+
+// Console.WriteLine(max);
+
+#endregion
+
+
+#region -- Mini Challenge 4 — Find the Minimum --
+
+// List<int> numbers = new List<int>
+// {
+//     42, 17, 89, 5, 63, 24
+// };
+
+// int min = numbers [0];
+
+// for(int i = 1; i < numbers.Count; i++)
+// {
+//     if(numbers[i] < min)
+//     {
+//         min = numbers[i];
+//     }
+// }
+
+// Console.WriteLine(min);
+
+
+#endregion 
+
+
+#region -- Mini Challenge 5 — Accumulator --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 20, 30, 40, 50
+// };
+
+// int initialValue = 0;
+
+
+// foreach(var n in numbers)
+// {
+//     initialValue += n ;
+// }
+
+// Console.WriteLine(initialValue);
+
+#endregion 
+
+
+#region -- Mini Challenge 6 — Counter --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 25, 30, 7, 42, 15, 60
+// };
+
+// int count = 0;
+// foreach (var n in numbers)
+// {
+//     if (n > 20)
+//     {
+//         count++;
+//     }
+
+
+// }
+//     Console.WriteLine(count);
+#endregion
+
+
+#region -- Mini Challenge 7 — Combine Patterns --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 25, 30, 7, 42, 15, 60
+// };
+
+// int total = 0;
+// int count = 0;
+
+// foreach (var n in numbers)
+// {
+//     if (n > 20)
+//     {
+//         total += n;
+//         count++;
+//     }
+// }
+
+// double average = (double)total / count;
+
+// Console.WriteLine(average);
+#endregion
+
+
+#region -- Mini Challenge 8 — Find the Second Largest --
+
+#endregion
+
+
+
+
+
+
+
 
 
 
