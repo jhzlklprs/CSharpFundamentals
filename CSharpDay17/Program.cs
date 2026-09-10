@@ -532,7 +532,6 @@
 #endregion
 
 
-
 #region -- Mini Challenge 1 — Min --
 
 // List<int> numbers = new List<int>
@@ -674,6 +673,29 @@
 
 #region -- Mini Challenge 8 — Find the Second Largest --
 
+// List<int> numbers = new List<int>
+// {
+//     42, 17, 89, 5, 63, 24
+// };
+
+// int max = numbers [0];
+// int secondMax = numbers [0];
+
+// for (int i = 1; i < numbers.Count; i++)
+// {
+//     if(numbers[i] > max)
+//     {
+//         secondMax = max;
+//         max = numbers[i];
+//     }
+//     else if(numbers[i] > secondMax)
+//     {
+//          secondMax = numbers[i];
+//     }
+
+// }
+// Console.WriteLine(max);
+// Console.WriteLine(secondMax);
 #endregion
 
 
