@@ -493,16 +493,30 @@
 
 #region -- Mini Challenge 3 — Average of Even Numbers --
 
-List<int> numbers = new List<int>
-{
-    10, 15, 20, 25, 30, 35, 40
-};
+// List<int> numbers = new List<int>
+// {
+//     10, 15, 20, 25, 30, 35, 40
+// };
 
-double result = numbers.Where(n => n % 2 == 0).Average();
+// double result = numbers.Where(n => n % 2 == 0).Average();
 
-Console.WriteLine(result);
+// Console.WriteLine(result);
 
 #endregion
+
+
+#region -- 😈 Mini Challenge 4 — Student Scores --
+
+// List<int> scores = new List<int>
+// {
+//     95, 72, 88, 60, 45, 91, 78
+// };
+
+// var result = scores.Where(n => n >= 75).Average();
+
+Console.WriteLine("Hello");
+#endregion
+
 
 
 
