@@ -507,14 +507,14 @@
 
 #region -- 😈 Mini Challenge 4 — Student Scores --
 
-// List<int> scores = new List<int>
-// {
-//     95, 72, 88, 60, 45, 91, 78
-// };
+List<int> scores = new List<int>
+ {
+     95, 72, 88, 60, 45, 91, 78
+ };
 
-// var result = scores.Where(n => n >= 75).Average();
+var result = scores.Where(n => n >= 75).Average();
 
-Console.WriteLine("Hello");
+Console.WriteLine(result);
 #endregion
 
 
