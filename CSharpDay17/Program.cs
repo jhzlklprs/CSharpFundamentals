@@ -517,20 +517,6 @@
 
 #region -- 😈 Mini Challenge 5 — Average Boss Fight --
 
-#endregion
-
-
-
-// List<int> numbers = new List<int>
-// {
-//    12, 18, 25, 30, 35, 42, 50, 61, 70
-// };
-
-// var result = numbers.Where(n => n > 20 && n % 2 == 0).Average();
-
-// Console.WriteLine(result);
-#endregion
-
 
 #region -- Mini Challenge 1 — Min --
 
@@ -697,6 +683,105 @@
 // Console.WriteLine(max);
 // Console.WriteLine(secondMax);
 #endregion
+
+
+
+#endregion
+
+
+
+// List<int> numbers = new List<int>
+// {
+//    12, 18, 25, 30, 35, 42, 50, 61, 70
+// };
+
+// var result = numbers.Where(n => n > 20 && n % 2 == 0).Average();
+
+// Console.WriteLine(result);
+#endregion
+
+#region -- LINQ Method — Single() --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 20, 30, 40, 50
+// };
+
+// int result = numbers.Single(n => n == 30);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 9 — Single() --
+
+// List<string> students = new List<string>
+// {
+//     "Anna",
+//     "Mark",
+//     "John",
+//     "Lisa"
+// };
+
+// var result = students.Single(s => s == "John");
+
+// Console.WriteLine(result);
+#endregion
+
+
+#region -- Mini Challenge 10 — SingleOrDefault() --
+
+// List<string> students = new List<string>
+// {
+//     "Anna",
+//     "Mark",
+//     "John",
+//     "Lisa"
+// };
+
+// var result = students.SingleOrDefault(s => s == "David");
+
+// if (result == null)
+// {
+//     Console.WriteLine("Result is Empty, can't find student David!");
+// }
+// else
+// {
+//     Console.WriteLine(result);
+// }
+
+#endregion
+
+
+#region -- Mini Challenge 11 — Last() --
+
+// List<int> numbers = new List<int>
+// {
+//     10, 20, 30, 40, 50
+// };
+
+// var result = numbers.Last(n => n > 20);
+
+// Console.WriteLine(result);
+
+#endregion
+
+
+#region -- Mini Challenge 12 — LastOrDefault() --
+
+List<int> numbers = new List<int>
+{
+    10, 20, 30, 40, 50
+};
+
+var result = numbers.LastOrDefault(n => n > 100);
+
+Console.WriteLine(result);
+
+#endregion
+
+
 
 
 
