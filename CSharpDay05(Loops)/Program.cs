@@ -218,7 +218,46 @@
 #endregion
 
 
+#region -- PRACTICE FOR --
 
+// 🔵 for loop exercises
+// Print numbers 1 to 20
+// for (int i = 1; i < 21; i++)
+// {
+//     Console.WriteLine(i);
+// }
+
+// Print only even numbers from 1 to 50
+// for (int i = 2; i < 51; i+=2)
+// {
+//     Console.WriteLine(i);
+// }
+
+// Print a countdown from 10 to 1, then print "Liftoff!"
+//     for (int i = 10; i > 0; i--)
+// {
+//     Console.WriteLine(i);
+
+// }
+//     Console.WriteLine("Liftoff!");
+
+// Sum of numbers 1 to 100 (add them all up, print the total)
+
+
+
+// Multiplication table — ask user for a number, print its table from 1x to 12x
+
+// Print a triangle pattern using *:
+//    *
+//    **
+//    ***
+//    ****
+//    *****
+// Factorial calculator — ask user for a number, calculate n! (e.g. 5! = 120)
+
+
+
+#endregion
 
 
 
