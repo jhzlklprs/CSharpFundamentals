@@ -1,5 +1,6 @@
 ﻿//Day 05 - Loops
 
+#region -- LOOPS --
 
 #region --Exercise 1--
 //for (int i = 1; i <= 3; i++)
@@ -133,8 +134,8 @@
 #region --Mini Challenge 3*--
 //Use a while loop to print 5 down to 1
 
-//while (true)
-//{
+// while (true)
+// {
 //    int x = 5;
 //    while (x > 0)
 //    {
@@ -142,6 +143,125 @@
 //        x--;
 //    }
 //    break;
-//}
+// }
 
 #endregion
+
+#region -- for loop — Printing a multiplication table --
+
+// Console.WriteLine("Enter a number for its multiplication table:");
+// int num = int.Parse(Console.ReadLine());
+
+// for (int i = 1; i <= 10; i++)
+// {
+//     Console.WriteLine($"{num} x {i} = {num * i}");
+// }
+
+#endregion
+
+#region -- while loop — ATM balance checker --
+
+// double balance = 5000;
+
+// while (balance > 0)
+// {
+//     Console.WriteLine($"Current balance: {balance}");
+//     Console.WriteLine("Enter withdrawal amount: (or 0 to exit)");
+//     double withdraw = double.Parse(Console.ReadLine());
+
+//     if (withdraw == 0) break;
+
+//     if (withdraw > balance)
+//         Console.WriteLine("Insufficient funds.");
+//     else
+//         balance -= withdraw;
+        
+// }
+
+// Console.WriteLine("Session ended.");
+
+
+#endregion
+
+#region -- do-while loop — Simple login retry system --
+
+// string password;
+// int attempts = 0;
+
+// do
+// {
+//     Console.WriteLine("Enter your password: ");
+//     password = Console.ReadLine();
+
+//     if (password != "1234")
+//     {
+//         Console.WriteLine("Incorrect password. Try again.");
+//         attempts++;
+//     }
+
+    
+// }while (password != "1234" && attempts < 3);
+
+// if (password == "1234")
+// {
+//     Console.WriteLine("Access Granted.");
+// }
+// else
+// {
+//     Console.WriteLine("Account locked. Too many attempts.");
+// }
+
+
+#endregion
+
+
+#endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
