@@ -27,6 +27,7 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Methods
 - [x] Parameters
 - [x] Return Values
+- [ ] String Manipulation
 
 ### 2. Collections
 
@@ -41,12 +42,19 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Action
 - [x] Functions
 - [x] Events
+- [ ] Lambda Expressions
 
 ### 4. Error Handling
 
 - [x] Exception Handling
 
-### 5. Object-Oriented Programming
+### 5. Types & Structures
+
+- [ ] Enums
+- [ ] Structs
+- [ ] Nullable Value Types
+
+### 6. Object-Oriented Programming
 
 - [ ] Classes
 - [ ] Objects
@@ -57,12 +65,15 @@ The goal is to understand the language and its underlying concepts through hands
 - [ ] Polymorphism
 - [ ] Abstraction
 - [ ] Interfaces
+- [ ] Composition
+- [ ] Dependency Injection (Basics)
+- [ ] SOLID Principles
 
-### 6. Generics
+### 7. Generics
 
 - [ ] Generics
 
-### 7. LINQ
+### 8. LINQ
 
 - [ ] Where
 - [ ] Select
@@ -71,12 +82,18 @@ The goal is to understand the language and its underlying concepts through hands
 - [ ] Count
 - [ ] OrderBy
 
-### 8. Async Programming
+### 9. Async Programming
 
 - [ ] Async
 - [ ] Await
 
-### 9. Advanced C#
+### 10. Working with Data & Debugging
+
+- [ ] File Handling
+- [ ] JSON Serialization
+- [ ] Debugging Techniques
+
+### 11. Advanced C#
 
 - [ ] Extension Methods
 - [ ] Records
@@ -85,25 +102,38 @@ The goal is to understand the language and its underlying concepts through hands
 - [ ] Pattern Matching
 - [ ] Reflection
 
+### 12. Modern .NET / ASP.NET Core
+
+- [ ] ASP.NET Core MVC
+- [ ] ASP.NET Core Web API
+- [ ] REST Principles
+- [ ] DTOs
+- [ ] Middleware
+- [ ] Authentication
+- [ ] Authorization
+
 ---
 
 ## 📊 Progress
 
 | Category | Progress |
 |---|---|
-| Fundamentals | 9 / 9 |
+| Fundamentals | 9 / 10 |
 | Collections | 4 / 4 |
-| Delegates & Events | 4 / 4 |
+| Delegates & Events | 4 / 5 |
 | Error Handling | 1 / 1 |
-| OOP | 0 / 9 |
+| Types & Structures | 0 / 3 |
+| OOP | 0 / 12 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
 | Async Programming | 0 / 2 |
+| Working with Data & Debugging | 0 / 3 |
 | Advanced C# | 0 / 6 |
+| Modern .NET / ASP.NET Core | 0 / 7 |
 
 ### Overall Progress
 
-**12 / 42 topics completed**
+**18 / 60 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
