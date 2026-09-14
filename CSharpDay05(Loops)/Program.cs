@@ -272,6 +272,14 @@
 
 
 // Print a triangle pattern using *:
+// for (int row = 1; row <= 5; row++)
+// {
+//     for (int col = 1; col <= row; col++)
+//     {
+//         Console.Write("*");
+//     }
+//     Console.WriteLine(); // move to next line after finishing a row
+// }
 //    *
 //    **
 //    ***
@@ -279,6 +287,20 @@
 //    *****
 // Factorial calculator — ask user for a number, calculate n! (e.g. 5! = 120)
 
+// Console.WriteLine("Enter a number: ");
+// int input = int.Parse(Console.ReadLine());
+
+// int factorial = 1;
+
+// for (int i = 1; i <= input; i++)
+// {
+//     // multiply factorial by i
+//     factorial *= i;
+// }
+
+
+
+// Console.WriteLine(factorial);
 
 
 #endregion
@@ -288,8 +310,34 @@
 
 
 // Print every name in a List<string> of friends
+// List<string> friends = new List<string>();
+
+// friends.Add("Patrick");
+// friends.Add("Jo");
+// friends.Add("Gwenn");
+// friends.Add("Kiel");
+
+// foreach(var f in friends)
+// {
+//     Console.WriteLine(f);
+// }
+
 // Sum all numbers in an int[] array
+// int [] numbers = { 5,3,2,10};
+// int sum = 0;
+// foreach (int n in numbers)
+// {
+//     sum += n;
+// }
+// Console.WriteLine(sum);
+
 // Find the largest number in an array (track a "max" variable as you loop)
+// int [] numbers = { 5,3,2,10};
+
+// int result = numbers.Max();
+
+// Console.WriteLine(result);
+
 // Count vowels in a string — loop through each char in the string using foreach
 // Print each key and value in a Dictionary<string, int> (e.g. student names + grades)
 // Filter and print only strings longer than 5 characters from a List<string>
@@ -298,8 +346,8 @@
 #endregion
 
 #region -- WHILE LOOP EXERCISES --
-
 // 🟡 while loop exercises
+
 // Countdown from a user-given number to 0 using while
 // Sum numbers until user types 0 — keep adding numbers the user enters; stop when they enter 0
 // Simple guessing game — computer picks a number, user guesses; loop while the guess is wrong
