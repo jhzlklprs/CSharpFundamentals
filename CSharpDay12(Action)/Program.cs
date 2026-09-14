@@ -1,5 +1,5 @@
 ﻿//CSharpFundamentals — Day 12: Action
-
+#region -- ACTION -- 
 #region --Basic Action--
 //static void SayHello()
 //{
@@ -68,30 +68,80 @@
 #region --CSharpFundamentals — Day 12 Action Boss Fight--
 //Scenario: Student Notification System
 
-using System.Xml.Linq;
 
-List<string> students = new List<string>
-{
-    "Kiel",
-    "Anna",
-    "Mark",
-    "John",
-    "Lisa"
-};
+// List<string> students = new List<string>
+// {
+//     "Kiel",
+//     "Anna",
+//     "Mark",
+//     "John",
+//     "Lisa"
+// };
 
-foreach (string student in students)
+// foreach (string student in students)
+// {
+//     NotifyStudent(student);
+// }
+
+// Action<string> notify = NotifyStudent;
+
+// static void NotifyStudent(string name)
+// {
+
+//     Console.WriteLine($"Hello, {name}! Your assignment is ready.");
+
+// }
+
+
+#endregion
+
+#endregion
+
+
+#region -- PRACTICE 1 --
+
+// List<string> students = new List<string>
+// {
+//     "Kiel",
+//     "Anna",
+//     "Mark",
+//     "John",
+//     "Lisa"
+// };
+
+// Action<string> greet = name => Console.WriteLine($"Hello {name}");
+
+// foreach (var s in students)
+// {
+//     greet(s);
+// }
+
+
+#endregion
+
+
+#region -- PRACTICE 2 --
+
+// Exercise: Multi-parameter Action
+// Write an Action<string, int> that prints something like:
+// Kiel is 21 years old
+// Requirements:
+// Declare an Action<string, int> called describePerson using a lambda.
+// Create a list of tuples (or two parallel lists) with a few names and ages, for example:
+
+   var people = new List<(string Name, int Age)>
+   {
+       ("Kiel", 21),
+       ("Anna", 25),
+       ("Mark", 30)
+   };
+
+Action<string, int> describePerson = (string name , int age) => Console.WriteLine($"{name} is {age} years old");
+
+
+foreach (var p in people)
 {
-    NotifyStudent(student);
+    describePerson(p.Name, p.Age);
 }
-
-Action<string> notify = NotifyStudent;
-
-static void NotifyStudent(string name)
-{
-
-    Console.WriteLine($"Hello, {name}! Your assignment is ready.");
-
-}
-
 
 #endregion
