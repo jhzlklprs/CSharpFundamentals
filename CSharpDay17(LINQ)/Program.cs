@@ -770,14 +770,14 @@
 
 #region -- Mini Challenge 12 — LastOrDefault() --
 
-List<int> numbers = new List<int>
-{
-    10, 20, 30, 40, 50
-};
+// List<int> numbers = new List<int>
+// {
+//     10, 20, 30, 40, 50
+// };
 
-var result = numbers.LastOrDefault(n => n > 100);
+// var result = numbers.LastOrDefault(n => n > 100);
 
-Console.WriteLine(result);
+// Console.WriteLine(result);
 
 #endregion
 
