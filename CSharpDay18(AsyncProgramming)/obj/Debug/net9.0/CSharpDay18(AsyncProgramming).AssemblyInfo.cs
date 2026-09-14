@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpDay18(AsyncProgramming)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6aae95d061a84c714a3d89152efe3dece179f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf255f95d48d177c4d4d17c9ca296116be2aaae")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpDay18(AsyncProgramming)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpDay18(AsyncProgramming)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
