@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09\\CSharpDay09.csproj": {}
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09(ListT)\\CSharpDay09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09\\CSharpDay09.csproj": {
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09(ListT)\\CSharpDay09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09\\CSharpDay09.csproj",
+        "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09(ListT)\\CSharpDay09.csproj",
         "projectName": "CSharpDay09",
-        "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09\\CSharpDay09.csproj",
+        "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09(ListT)\\CSharpDay09.csproj",
         "packagesPath": "C:\\Users\\ITD-L0183\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09\\obj\\",
+        "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay09(ListT)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

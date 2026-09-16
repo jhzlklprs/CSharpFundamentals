@@ -107,20 +107,55 @@ Count how many students failed (< 75)
 //Console.WriteLine($"Students failed: {failed}");
 #endregion
 
-#region ----
+#region --Exercise 1 — List basics--
+// Create a List<string> of your 3 favorite foods. Then:
+
+// Print the whole list
+// Add one more food to it
+// Remove the first food you added
+// Print how many items are in the list now
+
+
+List<string> FavoriteFoods = new()
+{
+    "Burger", "Pizza", "Taco"
+};
+
+FavoriteFoods.Add("Fries");
+FavoriteFoods.Remove("Burger");
+
+// foreach (var f in FavoriteFoods)
+// {
+//     Console.WriteLine(f);
+// }
+
+Console.WriteLine(FavoriteFoods.Count);
+
 
 #endregion
 
-#region ----
+#region --Exercise 2 — List searching--
+// Create a List<int> with these numbers: 5, 12, 8, 21, 3, 19.
 
+// Check if 21 is in the list (print true/false)
+// Find and print the largest number in the list
+// Print the number at index 2
 #endregion
 
-#region ----
+#region --Exercise 3 — Dictionary basics--
+// Create a Dictionary<string, int> representing 3 students and their scores (e.g., "Anna", 85).
 
+// Print Anna's score using her name as the key
+// Add a new student
+// Check if a student called "Mark" exists in the dictionary befsore trying to access him (avoid a crash)
 #endregion
 
-#region ----
+#region --Exercise 4 — Combining List + Dictionary--
+// Create a Dictionary<string, List<int>> — imagine it's each student's list of quiz scores, e.g. "Anna", [90, 85, 95].
 
+// Print all of Anna's scores
+// Add a new score to Anna's list
+// Print the average of Anna's scores
 #endregion
 
 #region ----
