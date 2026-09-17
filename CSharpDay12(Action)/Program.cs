@@ -129,19 +129,74 @@
 // Declare an Action<string, int> called describePerson using a lambda.
 // Create a list of tuples (or two parallel lists) with a few names and ages, for example:
 
-   var people = new List<(string Name, int Age)>
-   {
-       ("Kiel", 21),
-       ("Anna", 25),
-       ("Mark", 30)
-   };
+//    var people = new List<(string Name, int Age)>
+//    {
+//        ("Kiel", 21),
+//        ("Anna", 25),
+//        ("Mark", 30)
+//    };
 
-Action<string, int> describePerson = (string name , int age) => Console.WriteLine($"{name} is {age} years old");
+// Action<string, int> describePerson = (name , age) => Console.WriteLine($"{name} is {age} years old");
 
 
-foreach (var p in people)
-{
-    describePerson(p.Name, p.Age);
-}
+// foreach (var p in people)
+// {
+//     describePerson(p.Name, p.Age);
+// }
+
+#endregion
+
+
+#region -- PRACTICE 3 --
+
+// Exercise: Func instead of Action
+// Rewrite describePerson as a Func<string, int, string> called buildDescription.
+// Instead of printing directly inside the lambda, it should RETURN the sentence.
+// Requirements:
+// - Declare buildDescription as Func<string, int, string>
+// - The lambda returns something like "Kiel is 21 years old" (no Console.WriteLine inside the lambda)
+// - Loop through `people` again, call buildDescription(p.Name, p.Age) to get the string,
+//   then print it yourself in the loop
+
+// var people = new List<(string Name, int Age)>
+//    {
+//        ("Kiel", 21),
+//        ("Anna", 25),
+//        ("Mark", 30)
+//    };
+
+
+// Func<string, int, string> buildDescription = (name, age) => $"{name} is {age} years old";
+
+// foreach (var p in people)
+// {
+//     string description = buildDescription(p.Name, p.Age);
+//     Console.WriteLine(description);
+// }
+
+#endregion
+
+
+
+#region -- PRACTICE 4 --
+
+// Exercise: Func + LINQ
+// Use buildDescription (or a similar Func<string,int,string>) together with LINQ's Select
+// to transform the whole `people` list into a List<string> of descriptions,
+// without writing a foreach loop yourself.
+// Requirements:
+// - Use people.Select(...) with a lambda that calls buildDescription
+// - Convert the result to a List<string> called descriptions
+// - Print each item in descriptions however you like (foreach is fine for just printing)
+
+
+
+
+
+
+
+
+
+
 
 #endregion
