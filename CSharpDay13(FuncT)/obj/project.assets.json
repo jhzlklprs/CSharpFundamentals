@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13\\CSharpDay13.csproj",
+      "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13(FuncT)\\CSharpDay13.csproj",
       "projectName": "CSharpDay13",
-      "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13\\CSharpDay13.csproj",
+      "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13(FuncT)\\CSharpDay13.csproj",
       "packagesPath": "C:\\Users\\ITD-L0183\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13\\obj\\",
+      "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay13(FuncT)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
