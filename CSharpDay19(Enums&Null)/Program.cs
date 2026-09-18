@@ -44,4 +44,30 @@
 // If not, print "No age provided."
 // Separately, create a displayAge variable using ?? that defaults to 0 if age is null, and print it.
 
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("What's your age? (press Enter to skip)");
+        int? age = null;
+        
+
+        string input = Console.ReadLine();
+
+        if (string.IsNullOrEmpty(input))
+        {
+            age = null;
+        }
+        else
+        {
+            age = int.Parse(input);
+        }
+
+        int displayAge = age ?? 0;
+
+        Console.WriteLine(displayAge);
+    }
+}
+
 #endregion
+
