@@ -42,7 +42,7 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Action
 - [x] Functions
 - [x] Events
-- [ ] Lambda Expressions
+- [x] Lambda Expressions
 
 ### 4. Error Handling
 
@@ -120,7 +120,7 @@ The goal is to understand the language and its underlying concepts through hands
 |---|---|
 | Fundamentals | 9 / 10 |
 | Collections | 4 / 4 |
-| Delegates & Events | 4 / 5 |
+| Delegates & Events | 5 / 5 |
 | Error Handling | 1 / 1 |
 | Types & Structures | 0 / 3 |
 | OOP | 0 / 12 |
@@ -133,7 +133,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### Overall Progress
 
-**18 / 60 topics completed**
+**19 / 60 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
