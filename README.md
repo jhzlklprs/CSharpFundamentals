@@ -52,7 +52,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 - [ ] Enums
 - [ ] Structs
-- [ ] Nullable Value Types
+- [x] Nullable Value Types
 
 ### 6. Object-Oriented Programming
 
@@ -122,7 +122,7 @@ The goal is to understand the language and its underlying concepts through hands
 | Collections | 4 / 4 |
 | Delegates & Events | 5 / 5 |
 | Error Handling | 1 / 1 |
-| Types & Structures | 0 / 3 |
+| Types & Structures | 1 / 3 |
 | OOP | 0 / 12 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
@@ -133,7 +133,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### Overall Progress
 
-**19 / 60 topics completed**
+**20 / 60 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
