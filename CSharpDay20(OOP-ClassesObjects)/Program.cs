@@ -124,38 +124,38 @@ namespace CSharpDay20_OOP_ClassesObjects_
 
 
 
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            //Quick exercise: PersonalStaff
-            Programmer prg = new Programmer();
+    //internal class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        //Quick exercise: PersonalStaff
+    //        Programmer prg = new Programmer();
 
-            prg.Name = "Kiel";
-            prg.Age = 29;
-            prg.JobTitle = "System Prgrammer I";
+    //        prg.Name = "Kiel";
+    //        prg.Age = 29;
+    //        prg.JobTitle = "System Prgrammer I";
 
-            prg.DisplayInfo();
-
-
-        }
-
-        class Programmer
-        {
-            public string Name;
-            public int Age;
-            public string JobTitle;
+    //        prg.DisplayInfo();
 
 
+    //    }
 
-            public void DisplayInfo()
-            {
-                Console.WriteLine($"Programmer: {Name}");
-                Console.WriteLine($"Age: {Age}");
-                Console.WriteLine($"Job Title: {JobTitle}");
-            }
-        }
+    //    class Programmer
+    //    {
+    //        public string Name;
+    //        public int Age;
+    //        public string JobTitle;
 
-    }
+
+
+    //        public void DisplayInfo()
+    //        {
+    //            Console.WriteLine($"Programmer: {Name}");
+    //            Console.WriteLine($"Age: {Age}");
+    //            Console.WriteLine($"Job Title: {JobTitle}");
+    //        }
+    //    }
+
+    //}
 }
 
