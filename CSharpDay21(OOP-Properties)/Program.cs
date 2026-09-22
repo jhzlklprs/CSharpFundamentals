@@ -11,8 +11,9 @@
             myBook.Author = "John Doe";
             myBook.Pages = -50;
 
-            myBook.DisplayInfo();
             myBook.Checkout();
+            myBook.DisplayInfo();
+            
         }
 
 
@@ -59,7 +60,7 @@
                 }
                 else
                 {
-                    IsCheckedOut = true;   // <- the actual action happens here
+                    IsCheckedOut = true;   
                     Console.WriteLine($"{Title} has been checked out.");
                 }
             }
