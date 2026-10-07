@@ -59,8 +59,8 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Classes
 - [x] Objects
 - [x] Properties
-- [ ] Constructors
-- [ ] Encapsulation
+- [x] Constructors
+- [x] Encapsulation
 - [ ] Inheritance
 - [ ] Polymorphism
 - [ ] Abstraction
@@ -123,7 +123,7 @@ The goal is to understand the language and its underlying concepts through hands
 | Delegates & Events | 5 / 5 |
 | Error Handling | 1 / 1 |
 | Types & Structures | 1 / 3 |
-| OOP | 3 / 12 |
+| OOP | 5 / 12 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
 | Async Programming | 0 / 2 |
@@ -133,7 +133,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### Overall Progress
 
-**23 / 60 topics completed**
+**25 / 60 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
