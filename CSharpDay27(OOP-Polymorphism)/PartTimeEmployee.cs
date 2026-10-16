@@ -37,15 +37,17 @@ namespace CSharpDay27_OOP_Polymorphism_
                 }
                 else
                 {
-                    HourlyRate = value;
+                    hourlyRate = value;
                 }
             }
         }
 
-        public PartTimeEmployee(string name, string employeeId, decimal baseSalary)
+        public PartTimeEmployee(string name, string employeeId, decimal baseSalary, decimal hoursWorked, decimal hourlyRate)
             : base(name, employeeId, baseSalary)
         {
-            baseSalary = 0;
+            BaseSalary = 0;
+            HoursWorked = hoursWorked;
+            HourlyRate = hourlyRate;
         }
 
         public override decimal CalculatePay()
@@ -56,6 +58,8 @@ namespace CSharpDay27_OOP_Polymorphism_
         public override void ShowPayslip()
         {
             base.ShowPayslip();
+            Console.WriteLine($"Hours Worked: {HoursWorked}");
+            Console.WriteLine($"Hourly Rate: {HourlyRate}");
         }
     }
 }
