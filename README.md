@@ -28,6 +28,7 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Parameters
 - [x] Return Values
 - [ ] String Manipulation
+- [ ] Method Overloading
 
 ### 2. Collections
 
@@ -46,13 +47,19 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### 4. Error Handling
 
-- [x] Exception Handling
+- [x] Basic Try/Catch/Finally
+- [ ] Throwing Exceptions (throw)
+- [ ] Custom Exception Classes
+- [ ] Multiple Catch Blocks & Exception Hierarchies
 
 ### 5. Types & Structures
 
 - [ ] Enums
 - [ ] Structs
 - [x] Nullable Value Types
+- [ ] Value Types vs Reference Types (Stack vs Heap)
+- [ ] Boxing & Unboxing
+- [ ] const vs readonly
 
 ### 6. Object-Oriented Programming
 
@@ -61,11 +68,13 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Properties
 - [x] Constructors
 - [x] Encapsulation
-- [ ] Inheritance
-- [ ] Polymorphism
+- [x] Inheritance
+- [x] Polymorphism
 - [ ] Abstraction
 - [ ] Interfaces
 - [ ] Composition
+- [ ] Static vs Instance Members
+- [ ] Access Modifiers (Deep Dive: public/private/protected/internal)
 - [ ] Dependency Injection (Basics)
 - [ ] SOLID Principles
 
@@ -118,12 +127,12 @@ The goal is to understand the language and its underlying concepts through hands
 
 | Category | Progress |
 |---|---|
-| Fundamentals | 9 / 10 |
+| Fundamentals | 9 / 11 |
 | Collections | 4 / 4 |
 | Delegates & Events | 5 / 5 |
-| Error Handling | 1 / 1 |
-| Types & Structures | 1 / 3 |
-| OOP | 5 / 12 |
+| Error Handling | 1 / 4 |
+| Types & Structures | 1 / 6 |
+| OOP | 7 / 14 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
 | Async Programming | 0 / 2 |
@@ -133,7 +142,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### Overall Progress
 
-**25 / 60 topics completed**
+**27 / 69 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
