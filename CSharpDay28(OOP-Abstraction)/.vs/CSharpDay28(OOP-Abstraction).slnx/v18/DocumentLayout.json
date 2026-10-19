@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|c:\\users\\itd-l0183\\documents\\github\\csharpfundamentals\\csharpday28(oop-abstraction)\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|solutionrelative:smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|c:\\users\\itd-l0183\\documents\\github\\csharpfundamentals\\csharpday28(oop-abstraction)\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|solutionrelative:pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|c:\\users\\itd-l0183\\documents\\github\\csharpfundamentals\\csharpday28(oop-abstraction)\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|solutionrelative:emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|c:\\users\\itd-l0183\\documents\\github\\csharpfundamentals\\csharpday28(oop-abstraction)\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|solutionrelative:notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|c:\\users\\itd-l0183\\documents\\github\\csharpfundamentals\\csharpday28(oop-abstraction)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7C3BD-C7F3-44B8-88A9-C2CF757A65A3}|CSharpDay28(OOP-Abstraction).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\PushNotification.cs",
+              "RelativeDocumentMoniker": "PushNotification.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\PushNotification.cs",
+              "RelativeToolTip": "PushNotification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T03:14:06.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "SmsNotification.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\SmsNotification.cs",
+              "RelativeToolTip": "SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T03:09:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "EmailNotification.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\EmailNotification.cs",
+              "RelativeToolTip": "EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T03:04:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\Notification.cs",
+              "RelativeToolTip": "Notification.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T02:55:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharpFundamentals\\CSharpDay28(OOP-Abstraction)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T02:53:12.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

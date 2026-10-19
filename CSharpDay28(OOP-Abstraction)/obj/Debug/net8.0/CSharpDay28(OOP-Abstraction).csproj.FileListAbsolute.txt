@@ -1,0 +1,16 @@
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\bin\Debug\net8.0\CSharpDay28(OOP-Abstraction).exe
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\bin\Debug\net8.0\CSharpDay28(OOP-Abstraction).deps.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\bin\Debug\net8.0\CSharpDay28(OOP-Abstraction).runtimeconfig.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\bin\Debug\net8.0\CSharpDay28(OOP-Abstraction).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\bin\Debug\net8.0\CSharpDay28(OOP-Abstraction).pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).AssemblyInfo.cs
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).sourcelink.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\refint\CSharpDay28(OOP-Abstraction).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDay28(OOP-Abstraction).genruntimeconfig.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\ref\CSharpDay28(OOP-Abstraction).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay28(OOP-Abstraction)\obj\Debug\net8.0\CSharpDa.6CDB35E5.Up2Date

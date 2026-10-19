@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSharpDay28(OOP-Abstraction)/1.0.0": {
+        "runtime": {
+          "CSharpDay28(OOP-Abstraction).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpDay28(OOP-Abstraction)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
