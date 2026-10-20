@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            List<IPrintable> printQueue = new List<IPrintable> { new Receipt(), new MultiFunctionPrinter() };
+
+            foreach (var item in printQueue)
+            {
+                item.Print();
+            }
+
+            List<IScannable> scanQueue = new List<IScannable> { new Photo(), new MultiFunctionPrinter() };
+
+            foreach (var item in scanQueue)
+            {
+                item.Scan();
+            }
         }
     }
 }
