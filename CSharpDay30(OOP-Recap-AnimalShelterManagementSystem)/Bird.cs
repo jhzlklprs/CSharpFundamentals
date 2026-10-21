@@ -35,7 +35,7 @@ namespace CSharpDay30_OOP_Recap_AnimalShelterManagementSystem_
 
         public void Train()
         {
-            Console.WriteLine("Trainable Yes!");
+            Console.WriteLine("Trainable Yes!\n");
         }
 
 

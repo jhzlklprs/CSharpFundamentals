@@ -11,21 +11,21 @@
                 a.ShowInfo();
                 a.MakeSound();
 
+                if (a is IFeedable feedable)
+                {
+                    feedable.Feed();
+                }
+                if (a is ITrainable trainable)
+                {
+                    trainable.Train();
+                }
+                else
+                {
+                    Console.WriteLine("Not Trainable\n");
+                }
+
             }
 
-            List<IFeedable> feedables = new List<IFeedable> { new Dog("Baki", 2, "German Sheperd"), new Cat("Garfield", 2, true), new Bird("Harry", 1, true) };
-
-            foreach (var f in feedables)
-            {
-                f.Feed();
-            }
-
-            List<ITrainable> trainable = new List<ITrainable> { new Dog("Baki", 2, "German Sheperd"), new Bird("Harry", 1, true) };
-
-            foreach (var t in trainable)
-            {
-                t.Train();
-            }
         }
     }
 }
