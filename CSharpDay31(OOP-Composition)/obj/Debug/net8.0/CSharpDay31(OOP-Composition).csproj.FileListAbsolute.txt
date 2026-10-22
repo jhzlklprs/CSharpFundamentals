@@ -1,0 +1,16 @@
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\bin\Debug\net8.0\CSharpDay31(OOP-Composition).exe
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\bin\Debug\net8.0\CSharpDay31(OOP-Composition).deps.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\bin\Debug\net8.0\CSharpDay31(OOP-Composition).runtimeconfig.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\bin\Debug\net8.0\CSharpDay31(OOP-Composition).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\bin\Debug\net8.0\CSharpDay31(OOP-Composition).pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).AssemblyInfo.cs
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).sourcelink.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\refint\CSharpDay31(OOP-Composition).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDay31(OOP-Composition).genruntimeconfig.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\ref\CSharpDay31(OOP-Composition).dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharpFundamentals\CSharpDay31(OOP-Composition)\obj\Debug\net8.0\CSharpDa.A3E97EA6.Up2Date
