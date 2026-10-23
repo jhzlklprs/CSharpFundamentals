@@ -73,7 +73,7 @@ The goal is to understand the language and its underlying concepts through hands
 - [x] Abstraction
 - [x] Interfaces
 - [x] Composition
-- [ ] Static vs Instance Members
+- [x] Static vs Instance Members
 - [ ] Access Modifiers (Deep Dive: public/private/protected/internal)
 - [ ] Dependency Injection (Basics)
 - [ ] SOLID Principles
@@ -132,7 +132,7 @@ The goal is to understand the language and its underlying concepts through hands
 | Delegates & Events | 5 / 5 |
 | Error Handling | 1 / 4 |
 | Types & Structures | 1 / 6 |
-| OOP | 10 / 14 |
+| OOP | 11 / 14 |
 | Generics | 0 / 1 |
 | LINQ | 0 / 6 |
 | Async Programming | 0 / 2 |
@@ -142,7 +142,7 @@ The goal is to understand the language and its underlying concepts through hands
 
 ### Overall Progress
 
-**30 / 69 topics completed**
+**31 / 69 topics completed**
 
 > Progress is updated as I complete each topic in my learning tracker.
 
