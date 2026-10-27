@@ -10,8 +10,6 @@ namespace CSharpDay33_OOP_AccessModifiers_
             
             honorStudent.ShowBasicInfo();
             honorStudent.ShowDisciplinaryStatus();
-
-            honorStudent.DisciplinaryNotes = "Test direct access";
         }
     }
 }
