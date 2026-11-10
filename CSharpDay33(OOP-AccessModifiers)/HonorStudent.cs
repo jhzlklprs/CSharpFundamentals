@@ -13,8 +13,8 @@ namespace CSharpDay33_OOP_AccessModifiers_
         public string Honors { get; set; }
 
 
-        public HonorStudent(string studentId, double gPA, string disciplinaryNotes, string honors)
-            : base(studentId, gPA, disciplinaryNotes)
+        public HonorStudent(string studentId, double gPa, string disciplinaryNotes, string honors)
+            : base(studentId, gPa, disciplinaryNotes)
         {
             Honors = honors;
         }
